@@ -2,7 +2,7 @@
 
 ## Temario
 
-- [¿Qué es git?](#que-es-git)
+- [¿Qué es git?](#qué-es-git)
 - ¿Por qué usar git y que soluciona?
 - Instalación de git
   - Windows
