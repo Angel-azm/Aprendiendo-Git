@@ -2,14 +2,14 @@
 
 ## Temario
 
-- [¿Qué es git?](#¿qué-es-git?)
+- [¿Qué es git?](#que-es-git?)
 - ¿Por qué usar git y que soluciona?
 - Instalación de git
   - Windows
   - Ubuntu/Debian
 - Repositorio Local
 
-# ¿Qué es git?
+# Qué es git?
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id ante sollicitudin, eleifend diam a, interdum nibh. Sed nunc enim, sagittis ac mauris et, ullamcorper dignissim magna. In hac habitasse platea dictumst. Quisque consectetur tristique enim, pellentesque luctus erat venenatis eu. Praesent et laoreet justo. Phasellus mollis elementum arcu et feugiat. Vestibulum libero magna, ornare ut vehicula sed, interdum non lorem. Mauris porttitor erat at diam suscipit egestas. Integer vel ligula eget justo elementum dictum dapibus congue sem. Nam blandit at justo at elementum. In ante nisl, interdum a ultrices nec, pellentesque et justo. Duis et risus id augue dictum elementum eu ac nisi. Fusce porta tortor eget ullamcorper porttitor. Nunc vitae orci accumsan, blandit enim sit amet, aliquam tellus. Vivamus imperdiet ullamcorper nunc, nec tincidunt nisl hendrerit ac. Suspendisse interdum lacus at enim consectetur finibus.
 
